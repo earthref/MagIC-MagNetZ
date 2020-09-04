@@ -1,4 +1,4 @@
-MagNetS is a biweekly online seminar covering topics in the geomagnetism, paleomagnetism, rock magnetism, and archaeomagnetism. The zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk). Testing text.
+MagNetS is a biweekly online seminar covering topics in the geomagnetism, paleomagnetism, rock magnetism, and archaeomagnetism. The zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk). Testing.
 
 #### Next Seminar
 "Recurring anomalous magnetic field behavior in the South Atlantic on multi-million year timescales"  
