@@ -1,4 +1,4 @@
-MagNetS is a biweekly online seminar covering topics in the geomagnetism, paleomagnetism, rock magnetism, and archaeomagnetism.  
+MagNetS is a biweekly online seminar covering topics in the XX geomagnetism, paleomagnetism, rock magnetism, and archaeomagnetism.  
 
 #### Next Seminar
 "Recurring anomalous magnetic field behavior in the South Atlantic on multi-million year timescales"  
