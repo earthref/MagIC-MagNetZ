@@ -29,7 +29,7 @@ October: Saioa Arquero Campuzano
 
 29/07/2020
 " The 2016 Pacific jerk and core-mantle boundary flows obtained purely from Swarm secular variation gradient information "
- Author: Kathy Whaler (School of GeoSciences, University of Edinburgh, UK)
+ Author: **Kathy Whaler** (School of GeoSciences, University of Edinburgh, UK)
  Author Website: https://www.research.ed.ac.uk/portal/en/persons/kathy-whaler(3bf15102-f085-45aa-8cff-28076b678590).html
  YouTube Video: 
  Presentation Reference DOI:
