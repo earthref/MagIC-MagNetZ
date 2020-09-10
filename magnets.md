@@ -2,6 +2,7 @@ MagNetS is a biweekly online seminar covering topics in the geomagnetism, paleom
 
 #### Next Seminar
 October: Florenzia Milanese
+
 October: Saioa Arquero Campuzano
 
 #### Previous Seminars
