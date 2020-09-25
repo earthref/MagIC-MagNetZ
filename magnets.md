@@ -3,7 +3,7 @@
 </p>
 
 MagNetZ (Magnetic NetworkZ) is a biweekly online seminar covering topics in the geomagnetism, paleomagnetism, rock magnetism, and archeomagnetism. The Zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk).
-Download Video: []()
+
 The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtube.com/playlist?list=PLirL2unikKCgTsORL7X2p1DE1AgefCxwZ](https://www.youtube.com/playlist?list=PLirL2unikKCgTsORL7X2p1DE1AgefCxwZ).
 
 #### Upcoming Seminars
