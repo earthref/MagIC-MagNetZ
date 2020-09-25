@@ -10,13 +10,15 @@ October: Saioa Arquero Campuzano
 "Diagenesis and the magnetic signature of hydrocarbons  
  Author: **Adrian Muxworthy** (Imperial College of London)  
  Author Website: https://www.imperial.ac.uk/people/adrian.muxworthy  
- YouTube Video:  
- Presentation Reference DOI:  
+ Download Video: [earthref.org/ERDA/2450](https://earthref.org/ERDA/2450/)  
+ YouTube Video: https://www.youtu.be/0oeHsdb8Mek   
+ Presentation Reference DOI: 
 
 26/08/2020  
 "Recurring anomalous magnetic field behavior in the South Atlantic on multi-million year timescales"  
  Author: **Yael Engbers** (University of Liverpool)  
- Author Website:  
+ Download Video: [earthref.org/ERDA/2448](https://earthref.org/ERDA/2448/)  
+ YouTube Video: https://www.youtu.be/0MO-WjJ4TFo   
  MagIC contribution: [earthref.org/MagIC/doi/10.1073/PNAS.2001217117](https://earthref.org/MagIC/doi/10.1073/PNAS.2001217117)  
 
 12/08/2020  
@@ -31,7 +33,7 @@ October: Saioa Arquero Campuzano
 "The 2016 Pacific jerk and core-mantle boundary flows obtained purely from Swarm secular variation gradient information"  
  Author: **Kathy Whaler** (School of GeoSciences, University of Edinburgh, UK)  
  Author Website: https://www.research.ed.ac.uk/portal/en/persons/kathy-whaler(3bf15102-f085-45aa-8cff-28076b678590).html  
- YouTube Video:  
+ YouTube Video: https://www.youtu.be/0MO-WjJ4TFo
  Presentation Reference DOI:  
 
 
