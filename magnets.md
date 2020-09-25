@@ -16,7 +16,7 @@ Author: **Florenzia Milanese** (Universidad de Buenos Aires, Argentina)
 <details>
   <summary>Abstract</summary>
   Cretaceous-Paleogene marine units from the James Ross Basin constitute a highly fossiliferous reference section for the Southern Hemisphere. Its importance resides not only in the widely known K-Pg boundary at Marambio (Seymour) Island, but also in its almost continuous record of climate and biodiversity patterns preceding and following the terminal Cretaceous mass extinction. Chronology of these units has been traditionally based on bio- and chemostratigraphy, but endemism and early disappearance of several fossil groups in Antarctica requires an independent dating tool that also permits global correlations. Here I present a synthesis of recent magnetostratigraphic studies realized in the Upper Cretaceous Marambio Group, summarizing a chronostratigraphic framework that precisely states the Santonian-Campanian and Campanian-Maastrichtian boundaries in Antarctica.
-</details>  
+</details>
 Author Website:  
 Download Video: []()  
 YouTube Video: []()  
