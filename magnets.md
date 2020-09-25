@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="MagnetZ_Logo.jpg">
+    <img src="https://github.com/earthref/MagIC-MagNetS/raw/master/MagnetZ_Logo.jpg">
 </p>
 
 MagNetZ (Magnetic NetworkZ) is a biweekly online seminar covering topics in the geomagnetism, paleomagnetism, rock magnetism, and archeomagnetism. The Zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk).
