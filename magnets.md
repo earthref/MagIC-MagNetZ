@@ -12,13 +12,13 @@ October: Saioa Arquero Campuzano
  Author: **Adrian Muxworthy** (Imperial College of London)  
  Author Website: https://www.imperial.ac.uk/people/adrian.muxworthy  
  Download Video: [earthref.org/ERDA/2450](https://earthref.org/ERDA/2450/)  
- YouTube Video: https://www.youtu.be/0oeHsdb8Mek   
+ YouTube Video: youtu.be/0oeHsdb8Mek(https://www.youtu.be/0oeHsdb8Mek)
  Presentation Reference DOI: [10.7288/V4/ERDA/2450](https://dx.doi.org/10.7288/V4/ERDA/2450)
 
 2020-08-26 - "Recurring anomalous magnetic field behavior in the South Atlantic on multi-million year timescales"  
  Author: **Yael Engbers** (University of Liverpool)  
  Download Video: [earthref.org/ERDA/2448](https://earthref.org/ERDA/2448/)  
- YouTube Video: https://www.youtu.be/0MO-WjJ4TFo   
+ YouTube Video: youtu.be/0MO-WjJ4TFo(https://www.youtu.be/0MO-WjJ4TFo) 
  MagIC contribution: [earthref.org/MagIC/doi/10.1073/PNAS.2001217117](https://earthref.org/MagIC/doi/10.1073/PNAS.2001217117)  
  Presentation Reference DOI: [10.7288/V4/ERDA/2448](https://dx.doi.org/10.7288/V4/ERDA/2448)
 
@@ -33,5 +33,5 @@ October: Saioa Arquero Campuzano
  Author: **Kathy Whaler** (School of GeoSciences, University of Edinburgh, UK)  
  Author Website: https://www.research.ed.ac.uk/portal/en/persons/kathy-whaler(3bf15102-f085-45aa-8cff-28076b678590).html  
  Download Video: [earthref.org/ERDA/2443](https://earthref.org/ERDA/2442)  
- YouTube Video: https://www.youtu.be/0MO-WjJ4TFo  
+ YouTube Video: youtu.be/cWeA0dciRrY(https://youtu.be/cWeA0dciRrY)  
  Presentation Reference DOI: [10.7288/V4/ERDA/2442](https://dx.doi.org/10.7288/V4/ERDA/2442)
