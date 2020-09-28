@@ -8,6 +8,8 @@ The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtu
 
 #### Upcoming Seminars
 October 14, 2020: Saioa Arquero Campuzano  
+
+
 November 25, 2020: Evdokia Tema  
 
 #### Previous Seminars
@@ -27,7 +29,7 @@ Author: **Adrian Muxworthy** (Imperial College of London, UK)
  <details>
     <summary>Abstract</summary>
 Understanding hydrocarbon migration has the potential to both increase yield from mature reservoir systems reducing the need to exploit new reserves, and to help improve carbon capture strategies. Traditional seismic methods of mapping migration can be inexact and poorly constrained. The presence of hydrocarbons in rocks and sediments is known to cause diagenesis, thereby altering the magnetic signature of the host rock. During the last decade, the Natural Magnetism Group at Imperial College has been studying the use of mineral magnetic methods to identify and constrain hydrocarbon migration paths. The magnetic signature of hydrocarbons has been found to be very complex, their signature depending on a range of factors including levels of oil maturity and biodegradation, the presence of oil-water contacts, the host rock, migration trajectory, the depth of oil generation etc. Here I will give a summary of our latest findings, and show how we have used mineral magnetic results to constrain 3D basin models.  
-   </details>  
+  </details>  
  Author Website: https://www.imperial.ac.uk/people/adrian.muxworthy  
  Download Video: [earthref.org/ERDA/2450](https://earthref.org/ERDA/2450/)  
  YouTube Video: [youtu.be/0oeHsdb8Mek](https://youtu.be/0oeHsdb8Mek)  
