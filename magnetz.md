@@ -7,6 +7,8 @@ The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtu
 #### Upcoming Seminars
 
 October 14, 2020: Saioa Arquero Campuzano  
+
+
 November 25, 2020: Evdokia Tema  
 
 #### Previous Seminars
