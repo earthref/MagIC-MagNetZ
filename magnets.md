@@ -13,7 +13,10 @@ November 25, 2020: Evdokia Tema
 #### Previous Seminars
 2020-09-23 - "Coniacia-Danian chronostratigraphy of the James Ross Basin: a synthesis"  
 Author: **Florenzia Milanese** (Universidad de Buenos Aires, Argentina)
+ <details>
+    <summary>Abstract</summary>
 Cretaceous-Paleogene marine units from the James Ross Basin constitute a highly fossiliferous reference section for the Southern Hemisphere. Its importance resides not only in the widely known K-Pg boundary at Marambio (Seymour) Island, but also in its almost continuous record of climate and biodiversity patterns preceding and following the terminal Cretaceous mass extinction. Chronology of these units has been traditionally based on bio- and chemostratigraphy, but endemism and early disappearance of several fossil groups in Antarctica requires an independent dating tool that also permits global correlations. Here I present a synthesis of recent magnetostratigraphic studies realized in the Upper Cretaceous Marambio Group, summarizing a chronostratigraphic framework that precisely states the Santonian-Campanian and Campanian-Maastrichtian boundaries in Antarctica.  
+ </details>
 Author Website:  
 Download Video: []()  
 YouTube Video: []()  
@@ -21,7 +24,8 @@ Presentation Reference DOI: []()
 
 2020-09-09 - "Diagenesis and the magnetic signature of hydrocarbons"  
 Author: **Adrian Muxworthy** (Imperial College of London, UK)  
- 
+ <details>
+    <summary>Abstract</summary>
 Understanding hydrocarbon migration has the potential to both increase yield from mature reservoir systems reducing the need to exploit new reserves, and to help improve carbon capture strategies. Traditional seismic methods of mapping migration can be inexact and poorly constrained. The presence of hydrocarbons in rocks and sediments is known to cause diagenesis, thereby altering the magnetic signature of the host rock. During the last decade, the Natural Magnetism Group at Imperial College has been studying the use of mineral magnetic methods to identify and constrain hydrocarbon migration paths. The magnetic signature of hydrocarbons has been found to be very complex, their signature depending on a range of factors including levels of oil maturity and biodegradation, the presence of oil-water contacts, the host rock, migration trajectory, the depth of oil generation etc. Here I will give a summary of our latest findings, and show how we have used mineral magnetic results to constrain 3D basin models.  
  Author Website: https://www.imperial.ac.uk/people/adrian.muxworthy  
  Download Video: [earthref.org/ERDA/2450](https://earthref.org/ERDA/2450/)  
@@ -30,10 +34,10 @@ Understanding hydrocarbon migration has the potential to both increase yield fro
 
 2020-08-26 - "Recurring anomalous magnetic field behavior in the South Atlantic on multi-million year timescales"  
  Author: **Yael Engbers** (University of Liverpool, UK)  
-  <details>
+ <details>
     <summary>Abstract</summary>
     Earth’s magnetic field is presently characterized by a large and growing anomaly in the South Atlantic Ocean. The question of whether this region of Earth’s surface is preferentially subject to enhanced geomagnetic variability on geological timescales has major implications for core dynamics, core−mantle interaction, and the possibility of an imminent magnetic polarity reversal. Here we present paleomagnetic data from Saint Helena, a volcanic island ideally suited for testing the hypothesis that geomagnetic field behavior is anomalous in the South Atlantic on timescales of millions of years. Our results, supported by positive baked contact and reversal tests, produce a mean direction approximating that expected from a geocentric axial dipole for the interval 8 to 11 million years ago, but with very large associated directional dispersion. These findings indicate that, on geological timescales, geomagnetic secular variation is persistently enhanced in the vicinity of Saint Helena. This, in turn, supports the South Atlantic as a locus of unusual geomagnetic behavior arising from core−mantle interaction, while also appearing to reduce the likelihood that the present-day regional anomaly is a precursor to a global polarity reversal.
-  </details>
+ </details>
  Download Video: [earthref.org/ERDA/2448](https://earthref.org/ERDA/2448/)  
  YouTube Video: [youtu.be/0MO-WjJ4TFo](https://youtu.be/0MO-WjJ4TFo)  
  MagIC contribution: [earthref.org/MagIC/doi/10.1073/PNAS.2001217117](https://earthref.org/MagIC/doi/10.1073/PNAS.2001217117)  
