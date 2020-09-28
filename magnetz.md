@@ -6,14 +6,13 @@ The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtu
 
 #### Upcoming Seminars
 
-October 14, 2020: Saioa Arquero Campuzano  
+**14 October 2020**: **Saioa Arquero Campuzano**  
 
-
-November 25, 2020: Evdokia Tema  
+**25 November 2020**: **Evdokia Tema**  
 
 #### Previous Seminars
 
-**2020-09-23** - "Coniacia-Danian chronostratigraphy of the James Ross Basin: a synthesis"  
+**23 September 2020** - "Coniacia-Danian chronostratigraphy of the James Ross Basin: a synthesis"  
 Author: **Florenzia Milanese** (Universidad de Buenos Aires, Argentina) 
 <details><summary>Abstract</summary>
 Cretaceous-Paleogene marine units from the James Ross Basin constitute a highly fossiliferous reference section for the Southern Hemisphere. Its importance resides not only in the widely known K-Pg boundary at Marambio (Seymour) Island, but also in its almost continuous record of climate and biodiversity patterns preceding and following the terminal Cretaceous mass extinction. Chronology of these units has been traditionally based on bio- and chemostratigraphy, but endemism and early disappearance of several fossil groups in Antarctica requires an independent dating tool that also permits global correlations. Here I present a synthesis of recent magnetostratigraphic studies realized in the Upper Cretaceous Marambio Group, summarizing a chronostratigraphic framework that precisely states the Santonian-Campanian and Campanian-Maastrichtian boundaries in Antarctica.  
@@ -26,7 +25,7 @@ Presentation Reference DOI: []()
 
 ---
 
-**2020-09-09** - "Diagenesis and the magnetic signature of hydrocarbons"  
+**9 September 2020** - "Diagenesis and the magnetic signature of hydrocarbons"  
 Author: **Adrian Muxworthy** (Imperial College of London, UK)  
 <details><summary>Abstract</summary>
 Understanding hydrocarbon migration has the potential to both increase yield from mature reservoir systems reducing the need to exploit new reserves, and to help improve carbon capture strategies. Traditional seismic methods of mapping migration can be inexact and poorly constrained. The presence of hydrocarbons in rocks and sediments is known to cause diagenesis, thereby altering the magnetic signature of the host rock. During the last decade, the Natural Magnetism Group at Imperial College has been studying the use of mineral magnetic methods to identify and constrain hydrocarbon migration paths. The magnetic signature of hydrocarbons has been found to be very complex, their signature depending on a range of factors including levels of oil maturity and biodegradation, the presence of oil-water contacts, the host rock, migration trajectory, the depth of oil generation etc. Here I will give a summary of our latest findings, and show how we have used mineral magnetic results to constrain 3D basin models.
@@ -39,7 +38,7 @@ Presentation Reference DOI: [10.7288/V4/ERDA/2450](https://dx.doi.org/10.7288/V4
 
 ---
 
-**2020-08-26** - "Recurring anomalous magnetic field behavior in the South Atlantic on multi-million year timescales"  
+**26 August 2020** - "Recurring anomalous magnetic field behavior in the South Atlantic on multi-million year timescales"  
 Author: **Yael Engbers** (University of Liverpool, UK)  
 <details><summary>Abstract</summary>
 Earth’s magnetic field is presently characterized by a large and growing anomaly in the South Atlantic Ocean. The question of whether this region of Earth’s surface is preferentially subject to enhanced geomagnetic variability on geological timescales has major implications for core dynamics, core−mantle interaction, and the possibility of an imminent magnetic polarity reversal. Here we present paleomagnetic data from Saint Helena, a volcanic island ideally suited for testing the hypothesis that geomagnetic field behavior is anomalous in the South Atlantic on timescales of millions of years. Our results, supported by positive baked contact and reversal tests, produce a mean direction approximating that expected from a geocentric axial dipole for the interval 8 to 11 million years ago, but with very large associated directional dispersion. These findings indicate that, on geological timescales, geomagnetic secular variation is persistently enhanced in the vicinity of Saint Helena. This, in turn, supports the South Atlantic as a locus of unusual geomagnetic behavior arising from core−mantle interaction, while also appearing to reduce the likelihood that the present-day regional anomaly is a precursor to a global polarity reversal.
@@ -52,7 +51,7 @@ Presentation Reference DOI: [10.7288/V4/ERDA/2448](https://dx.doi.org/10.7288/V4
 
 ---
 
-**2020-08-12** - "Landscapes on Fire: Do rocks baked by coal seam fires reliably record the geomagnetic field?"  
+**12 August 2020** - "Landscapes on Fire: Do rocks baked by coal seam fires reliably record the geomagnetic field?"  
 Author: **Courtney Sprain** (University of Florida, USA)  
 <details><summary>Abstract</summary>
 High quality paleointensity data is essential for improving our understanding of the long-term evolution of the geodynamo as well as short-term paleosecular variation; however, it is challenging to find materials that reliably record Earth’s full-vector magnetic field going back in time. This study examines a new candidate material for paleointensity studies: clinkers, which are rocks that have been baked, metamorphosed, or melted by underlying coal seam fires. Previous studies conducted on clinkers suggest that they may be high-fidelity magnetic field recorders. However, due to the inhomogeneity of clinker deposits and limited scope of previous studies, it is unknown under what conditions these conclusions hold true. To better assess this, we quantified the variation of magnetic properties within clinker deposits collected from the Powder River basin, MT, as a function of lithology, oxidation state, distance from the coal seam, and location. Our results indicate that the clinker products are dominated by three main magnetic minerals: magnetite, hematite, and the rare ε-Fe2O3. No major differences in magnetic properties were observed as a function of location, distance from the coal seam, or primary lithology. Clinker material, instead, is the primary control on magnetic mineralogy, where baked sediment and porcellanite are dominated by varying proportions of hematite, ε-Fe2O3, and magnetite, and paralavas (melted sediment) are dominated by low-Ti magnetite. All clinker materials are thermally stable and likely experienced temperatures in excess of the magnetite Curie T, potentially as far away as 8 m from the coal seam. Grain size analysis indicates that the magnetic particles in all clinker materials are amenable to high-quality paleointensity study. In total, our study confirms that clinkers should be reliable paleomagnetic recorders and that so long as collection is within the clinker deposit, material amenable to full-vector paleomagnetic study should be obtained.  These conclusion are corroborated by preliminary demagnetization and paleointensity results, which will also be presented.
@@ -65,7 +64,7 @@ Presentation Reference DOI: [10.7288/V4/ERDA/2443](https://dx.doi.org/10.7288/V4
 
 ---
 
-**2020-07-29** - "The 2016 Pacific jerk and core-mantle boundary flows obtained purely from Swarm secular variation gradient information"  
+**29 July 2020** - "The 2016 Pacific jerk and core-mantle boundary flows obtained purely from Swarm secular variation gradient information"  
 Author: **Kathy Whaler** (University of Edinburgh, UK)  
 <details><summary>Abstract</summary>
 The Swarm constellation provides information on both along- and across-track magnetic field gradients. Spatial changes of the magnetic vector field elements are described by a magnetic field gradient tensor, whose elements and their uncertainties can be estimated using the Virtual Observatory (VO) concept, whereby data within a cylinder centred on the VO with axis perpendicular to the Earth’s surface are reduced to a central point at satellite altitude. Recent experiments have shown that analysing data collected over a 4 month window provides the best compromise between reducing bias from the way the satellite orbits sample each VO cylinder and preserving information on temporal changes of the field, and that the data provide spatial information sufficient to resolve 300 non-overlapping VOs. We invert annual first differences of the 5 independent gradient tensor elements (providing estimates of secular variation, SV, gradients) at these 300 VOs over the Swarm era for advective velocity at the core-mantle boundary, forcing the flow to have minimal acceleration while providing an adequate fit to the data. We obtain flows similar to those from previous SV inversions but purely from the gradient information. The resolution of the SV gradients is higher than that of the SV itself, resulting in a ~30% increase in the number of effective flow parameters; this is thought to be because the gradients are less affected by long period external signals that are difficult to remove from the data, resulting in an improved signal to noise ratio. Although very little temporal change in the flow is required to reproduce even rapid changes in the magnetic field, we are able to isolate some robust flow changes, in particular regarding changes in the azimuthal flow acceleration, associated with the geomagnetic impulse in the Pacific region in around 2016.
@@ -78,7 +77,7 @@ Presentation Reference DOI: [10.7288/V4/ERDA/2442](https://dx.doi.org/10.7288/V4
 
 ---
 
-**2020-07-15** - "First Late Quaternary PSV curve from Scotland, UK"  
+**15 July 2020** - "First Late Quaternary PSV curve from Scotland, UK"  
 Author: **Myriam Rada Torres** (University of Edinburgh, UK)  
 <details><summary>Abstract</summary>
 I present the first Late Quaternary PSV record for Scotland and the UK, covering the last 19,000 years, generated using sediment cores from Bardowie Loch in the Central Belt of Scotland. This is also the first study that describes the variations of the geomagnetic field both in direction and intensity during The Holocene for Scotland, representing a valuable piece for the puzzle of the geodynamo behaviour in the North Atlantic region.
@@ -92,11 +91,11 @@ Previous PSV studies from North America, the North Atlantic region, Northern Eur
 The Late Pleistocene section of the resulting PSV record from Scotland shows two intervals of exceptional deviation in direction at ca 18.3ka to ca 16ka and ca 15ka to ca 12.8ka. The deepest interval displays anomalous shallow inclinations around 20º, joined by the largest oscillation in declination, with a maximum of 77-degree deviation. Such substantial variations in the geomagnetic field orientation agree with the Hilina Palli Excursion, dated between 22ka and 17ka and observed globally in volcanic rocks, marine and lake cores from Hawaii and California, to Lake Baikal and China.
 
 The upper interval of anomalous geomagnetic field behaviour close to the end of The Pleistocene, exhibits the largest drop of inclination from present-day values (about 70º) to negative inclinations (-12º), while the declination presents oscillations over 50-degrees. These abrupt and dramatic variations in orientation are consistent with the controversial Gothenburg Excursion (ca 12.3 to ca 13.8ka), which were originally reported in sediments from the Scandinavian Glacial Interstadial and also observed in North American glacial lakes, with poorly constrained ages from 7.6ka to 14ka.
- </details>
+</details>
 
 ---
 
-**2020-07-01** - "The evolution of the Levantine Iron Age geomagnetic Anomaly"  
+**1 July 2020** - "The evolution of the Levantine Iron Age geomagnetic Anomaly"  
 Author: **Annemarieke Béguin** (Utrecht University, The Netherlands)  
 <details>
 <summary>Abstract</summary>
@@ -107,7 +106,7 @@ Author Website:
 
 ---
 
-**2020-06-17** - "Micromagnetic modeling of silicate-hosted magnetic inclusions using SEM-FIB slice-and-view nanotomography"  
+**17 June 2020** - "Micromagnetic modeling of silicate-hosted magnetic inclusions using SEM-FIB slice-and-view nanotomography"  
 Author: **Even Nikolaisen** (Norwegian University of Science and Technology, Norway)  
 <details>
 <summary>Abstract</summary>
@@ -118,7 +117,7 @@ Author Website:
 
 ---
 
-**2020-06-03** - "Rapid geomagnetic changes inferred from Earth observations and numerical simulations"  
+**3 June 2020** - "Rapid geomagnetic changes inferred from Earth observations and numerical simulations"  
 Author: **Chris Davies** (University of Leeds, UK)  
 <details>
 <summary>Abstract</summary>
