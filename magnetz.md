@@ -4,6 +4,8 @@ MagNetZ (Magnetic NetworkZ) is a biweekly online seminar organized by Greig Pate
 
 The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtube.com/playlist?list=PLirL2unikKCgTsORL7X2p1DE1AgefCxwZ](https://www.youtube.com/playlist?list=PLirL2unikKCgTsORL7X2p1DE1AgefCxwZ).
 
+Thanks to Nick Jarboe, Rupert Minnett and teh EarthRef and MagIC teams for their help supprting MagNetZ.
+
 #### Upcoming Seminars
 
 **21 October 2020**: **Saioa Arquero Campuzano**  
@@ -13,7 +15,7 @@ The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtu
 #### Previous Seminars
 
 **23 September 2020** - "Coniacia-Danian chronostratigraphy of the James Ross Basin: a synthesis"  
-Author: **Florenzia Milanese** (Universidad de Buenos Aires, Argentina) 
+Author: **Florenzia Milanese** (Universidad de Buenos Aires, Argentina)  
 Author Website: [Florencia Milanese](https://www.researchgate.net/profile/Florencia_Milanese)  
 Download Video: [earthref.org/ERDA/2451](https://earthref.org/ERDA/2451/)  
 YouTube Video: [youtu.be/5YkebyicAsA](https://youtu.be/5YkebyicAsA)  
