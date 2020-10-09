@@ -65,7 +65,7 @@ High quality paleointensity data is essential for improving our understanding of
 
 **29 July 2020** - "The 2016 Pacific jerk and core-mantle boundary flows obtained purely from Swarm secular variation gradient information"  
 Author: **Kathy Whaler** (University of Edinburgh, UK)  
-Author Website: [Kathy Whaler](https://www.research.ed.ac.uk/portal/en/persons/kathy-whaler(3bf15102-f085-45aa-8cff-28076b678590).html)  
+Author Website: [Kathy Whaler](https://www.research.ed.ac.uk/portal/en/persons/kathy-whaler\(3bf15102-f085-45aa-8cff-28076b678590\).html)  
 Download Video: [earthref.org/ERDA/2443](https://earthref.org/ERDA/2442)  
 YouTube Video: [youtu.be/cWeA0dciRrY](https://youtu.be/cWeA0dciRrY)  
 Presentation Reference DOI: [10.7288/V4/ERDA/2442](https://dx.doi.org/10.7288/V4/ERDA/2442)
