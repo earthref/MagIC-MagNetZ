@@ -89,7 +89,7 @@ The upper interval of anomalous geomagnetic field behaviour close to the end of 
 ---
 
 **1 July 2020** - "The evolution of the Levantine Iron Age geomagnetic Anomaly"  
-Author: **Annemarieke Béguin** (Utrecht University, The Netherlands)  
+Author: **Annemarieke B&eacute;guin** (Utrecht University, The Netherlands)  
 Author Website: [Annemarieke Béguin](https://www.researchgate.net/profile/Annemarieke_Beguin)  
 <details><summary>Abstract</summary>
 The geomagnetic field can vary dramatically over only decades and thousands of kilometers; the Levantine Iron Age geomagnetic Anomaly (LIAA) is probably the best-known example of such short-lived feature of the Earth's magnetic field. Over the past decade, many studies have contributed to a relatively coherent intensity record for this region. I will provide an overview of the different studies and their results with the focus on our recent study on three marine sediment records from the Mediterranean Sea. To better constrain the Levant geomagnetic high in time and space, we obtained continuous full-vector records from three marine sediment cores located (1) between Spain and Morocco (Alboran), (2) East of Calabria, Italy (Taranto Gulf), and (3) North of the Nile Delta (Levant). Geomagnetic field variations between 6000 BC and 1000 AD are captured for a total of 681 samples. Rock magnetic analyses indicate the sediment cores as reliable recorders for geomagnetic field variations. From these records we observe that the LIAA moves from 40 to 55&deg; East at 1000 BC to ~25&deg; East at 0 AD, while decaying from ~150 ZAm<sup>2</sup> to ~110 ZAm<sup>2</sup> in the same time span. This results in a westward movement of 15-30&deg; in 1000 yr.
