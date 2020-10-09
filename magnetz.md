@@ -4,7 +4,7 @@ MagNetZ (Magnetic NetworkZ) is a biweekly online seminar organized by Greig Pate
 
 The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtube.com/playlist?list=PLirL2unikKCgTsORL7X2p1DE1AgefCxwZ](https://www.youtube.com/playlist?list=PLirL2unikKCgTsORL7X2p1DE1AgefCxwZ).
 
-Thanks to Nick Jarboe, Rupert Minnett and teh EarthRef and MagIC teams for their help supprting MagNetZ.
+Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their help supprting MagNetZ. We also thank Simon Lloyd for designing our MagNetZ logo.
 
 #### Upcoming Seminars
 
