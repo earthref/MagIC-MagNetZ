@@ -8,11 +8,21 @@ Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their
 
 #### Upcoming Seminars
 
-**21 October 2020**: **Saioa Arquero Campuzano**  
-
 **25 November 2020**: **Evdokia Tema**  
 
 #### Previous Seminars
+
+**21 October 2020** - "Evolution of the geomagnetic field for the last three millennia from SHAWQ-Iron Age and SHAWQ2k reconstructions: from Levantine Iron Age to South Atlantic Anomalies"  
+Author: **Saioa Campuzano** (Instituto de Geociencias, Madrid, Spain)  
+Author Website: [Saioa Campuzano](https://www.researchgate.net/profile/Saioa_Campuzano)  
+Download Video: [earthref.org/ERDA/2452](https://earthref.org/ERDA/2452/)  
+YouTube Video: [youtu.be/RptJg9DLZIM](https://youtu.be/RptJg9DLZIM)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2452](https://dx.doi.org/10.7288/V4/ERDA/2452)
+<details><summary>Abstract</summary>
+Paleomagnetic data are crucial to understand the dynamical behavior of the geomagnetic field since they provide the unique way to investigate past changes in the Earth’s magnetic field. Two new global geomagnetic field reconstructions, the SHAWQ-Iron Age and the SHAWQ2k, based on a critical revision of the global archeomagnetic and volcanic dataset, have been developed. The new models provide an improved description of the geomagnetic field during the last three millennia and yield interesting outcomes about the emergence and development of the Levantine Iron Age Anomaly (LIAA) and the South Atlantic Anomaly (SAA). According to the SHAWQ-Iron Age, the LIAA is related to a normal flux patch at the core-mantle boundary (CMB) below Arabian Peninsula clearly observed at around 950 BC. This flux patch expanded towards the north-west, while decreasing in intensity, reaching Iberia at around 750 BC. Around 600-500 BC, it underwent a revival below the European continent after that it seems to vanish in situ. Regarding the SHAWQ2k, it shows that the reversed flux patch observed at the CMB and linked to the SAA in present times, emerged in the Southern Hemisphere from at least 950 AD. This patch moved westward from the equator to southern latitudes, being clearly isolated after 1400 AD. In addition, since 1550 AD a second reversed flux patch moving north-eastward is observed in the North Atlantic. As can be observed from these works, our understanding of past geomagnetic field behavior has improved thanks to: 1) the new data now available for the Southern Hemisphere coming from Africa and South America, 2) the new data coming from the Iberian Peninsula prior to Late Iron Age times, an epoch very poorly constrained up to date, and 3) the use of an appropriated weighting scheme in the modeling process, which takes into account quality standards especially relevant in paleointensity studies. These improvements have allowed to show new evolutionary aspects of the both LIAA and SAA.  
+</details>
+
+----
 
 **23 September 2020** - "Coniacia-Danian chronostratigraphy of the James Ross Basin: a synthesis"  
 Author: **Florenzia Milanese** (Universidad de Buenos Aires, Argentina)  
