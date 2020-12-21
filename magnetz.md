@@ -8,9 +8,21 @@ Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their
 
 #### Upcoming Seminars
 
-**25 November 2020**: **Evdokia Tema**  
+**2021**: **TBA**  
 
 #### Previous Seminars
+
+**25 November 2020** - "Archaeomagnetic research in Italy: Recent advances and future perspectives"  
+Author: **Evdokia Tema** (University of Turin (Università degli Studi di Torino), Italy)  
+Author Website: [Evdokia Tema](https://www.researchgate.net/profile/Evdokia_Tema)  
+Download Video: [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/)  
+YouTube Video: [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)
+<details><summary>Abstract</summary>
+Baked clay archaeological material and volcanic rocks offer precious information about the Secular Variation of the Earth’s magnetic field in the past thanks to their strong and stable Thermal Remanent Magnetization (TRM) acquired during their cooling in the presence of the ancient geomagnetic field. Italy is a country with great potential for archaeomagnetic research due to its long and rich cultural heritage and to the important volcanic activity of the two principal active Italian volcanoes, Vesuvius and Etna. Recently, an updated compilation of Italian archaeomagnetic data from both archaeological material and volcanic rocks has been compiled and used for the calculation of directional and intensity reference secular variation (SV) curves. The quality of the data was carefully evaluated, with particular attention on the reliability of the dating of the volcanic rocks and on the quality of the archaeointensity determinations. Revising the reliability of the historical dating of the available volcanic data, it results that only 57% of the volcanic palaeomagnetic records come from indisputably dated eruptions while for the rest of the data, the traditional age of the eruption has been subject of debate or re-evaluated based on geological evidence and/or archaeomagnetic dating. New SV curves for both direction and intensity are now available for Italy, calculated using Bayesian statistics and covering the last three millennia. Thanks to the privileged geographical position of the Italian peninsula, situated almost in the center of the Mediterranean, the Italian SV curves can be used to analyze the evolution of the geomagnetic field in central Europe and for archaeomagnetic dating applications not only in Italy but also in nearby countries where no local SV curves are available so far. Definitely, more well-dated reference data are still necessary to better define the geomagnetic field path for the BC periods while future attention should be also focused on the archaeointensity data that are still scarce.  
+</details>
+
+----
 
 **21 October 2020** - "Evolution of the geomagnetic field for the last three millennia from SHAWQ-Iron Age and SHAWQ2k reconstructions: from Levantine Iron Age to South Atlantic Anomalies"  
 Author: **Saioa Campuzano** (Instituto de Geociencias, Madrid, Spain)  
