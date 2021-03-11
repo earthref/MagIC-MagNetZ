@@ -2,15 +2,76 @@
 
 MagNetZ (Magnetic NetworkZ) is a biweekly online seminar organized by Greig Paterson and Anita Di Chiara. The seminars cover topics in the geomagnetism, paleomagnetism, rock magnetism, archeomagnetism, and environmental magnetism (all things magnetic). The Zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk) or [adichiara@ucsd.edu](mailto:adichiara@ucsd.edu).
 
-The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtube.com/playlist?list=PLirL2unikKCgTsORL7X2p1DE1AgefCxwZ](https://www.youtube.com/playlist?list=PLirL2unikKCgTsORL7X2p1DE1AgefCxwZ).
+The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtube.com/channel/UCS-a6kZc8bdQoDMGSF1cIZ](https://www.youtube.com/channel/UCS-a6kZc8bdQoDMGSF1cIZg).
 
-Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their help supprting MagNetZ. We also thank Simon Lloyd for designing our MagNetZ logo.
+Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their help supprting MagNetZ. We also thank Simon Lloyd for designing our MagNetZ logo and our various helpers moderating the seminars.
 
 #### Upcoming Seminars
 
-**2021**: **TBA**  
+**17 March 2021** - "Magnetic minerals in archaeological ceramics — old wineskins, new wine"  
+Author Website: [Andrei Kosterov](https://www.researchgate.net/profile/Andrei-Kosterov)  
+Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
+YouTube Video: <!-- [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)-->  
+Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
+<details><summary>Abstract</summary>
+Understanding how magnetic minerals are formed in archaeological ceramics and baked clay is crucial for assessing the reliability of archaeointensity determinations, and could also contribute to reconstructing the ceramics manufacture process. Magnetic minerals in archaeological ceramics and baked clay may be inherited from the parent material, or, more frequently, formed during the firing process. The resulting magnetic mineralogy may be complex, including ferrimagnetic phases not commonly encountered in rocks.
+In this talk, I will review the current understanding of magnetic mineralogy of archaeological ceramics and baked clay using the material from Bulgaria and Russia as an example.  
+</details>
 
-#### Previous Seminars
+----
+
+**31 March 2021** - "TBC"  
+Author Website: [Jay Shah](https://eapsweb.mit.edu/people/jayshah)  
+Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
+YouTube Video: <!-- [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)-->  
+Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
+<details><summary>Abstract</summary>
+TBC  
+</details>
+
+----
+
+**04 April 2021** - "Applying magnetic anisotropy to pore space characterization"  
+Author Website: [Andrea Biedermann](http://www.andrea-biedermann.ch/)  
+Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
+YouTube Video: <!-- [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)-->  
+Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
+<details><summary>Abstract</summary>
+The anisotropic properties of a formation’s pore space largely control preferred flow directions. An accurate 3D description of pore space properties is thus essential in reservoir characterization and fluid migration studies. Traditional characterization methods face trade-offs between sample volume and resolution amongst other challenges. Magnetic pore fabrics, i.e., the anisotropy of magnetic susceptibility in ferrofluid-impregnated samples, have been proposed to capture pores down to 10 nm in standard-sized samples. Promising empirical relationships exist between magnetic pore fabrics and pore shape and orientation distributions, but are compromised by a large variability between studies. New numerical and experimental data provide insight into the sources of this variability, and allow for a quantitative interpretation of magnetic pore fabrics in future applications.  
+</details>
+
+  
+  
+----
+  
+  
+# Previous Seminars
+
+## 2021
+
+**03 March 2021** - "Constraining the decline of the Moon's magnetic field through experimental analyses of Apollo samples"  
+Author Website: [Beck Strauss]( https://bestrauss.com)  
+Download Video: [earthref.org/ERDA/2463](https://earthref.org/ERDA/2463/)  
+YouTube Video: [youtu.be/E4GoB2CaZRo](https://youtu.be/E4GoB2CaZRo)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2463](https://dx.doi.org/10.7288/V4/ERDA/2458)  
+<details><summary>Abstract</summary>
+Recent paleomagnetic studies of lunar rocks have suggested that the Moon's magnetic field reached peak intensities on the order of ~77 μT between 3.85 and 3.56 Ga and subsequently declined to surface intensities of ~4  μT by 3.19 Ga. However, this decline in the intensity of the lunar field has only been shown in a small number of samples, presenting challenges for constraint of its timing and thus the dynamo generation mechanisms that could be responsible. We present microscopic and magnetic analyses of Apollo samples 12008, 12009, and 12015, three fine grained mare vitrophyre basalts with high magnetic fidelity, indicating that these samples were not magnetized in conditions consistent with a planetary magnetic field exceeding 4-7  μT during their formation. These data are consistent with the results of previous work on the initial decline of Moon's magnetic field and confirm that the mechanism of lunar dynamo generation changed dramatically between 3.6 and 3.1 Ga.  
+</details>
+
+----
+
+**17 February 2021** - "Understanding Nonideal Paleointensity Recording in Igneous Rocks"  
+Author Website: [Lisa Tauxe](https://ltauxe.scrippsprofiles.ucsd.edu/)  
+Download Video: [earthref.org/ERDA/2462](https://earthref.org/ERDA/2462/)  
+YouTube Video: [youtu.be/KZrwiZzhsj8](https://youtu.be/KZrwiZzhsj8)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2462](https://dx.doi.org/10.7288/V4/ERDA/2462)
+<details><summary>Abstract</summary>
+The theory for recording of thermally blocked remanences predicts a quasilinear relationship between low fields like the Earth's in which rocks cool and acquire a magnetization. This serves as the foundation for estimating ancient magnetic field strengths. Addressing long-standing questions concerning Earth's magnetic field requires a global paleointensity data set, but recovering the ancient field strength is complicated because the theory only pertains to uniformly magnetized particles. A key requirement of a paleointensity experiment is that a magnetization blocked at a given temperature should be unblocked by zero-field reheating to the same temperature. However, failure of this requirement occurs frequently and the causes and consequences of failure are understood incompletely. Recent experiments demonstrate that the remanence in many samples typical of those used in paleointensity experiments is unstable, exhibiting an “aging” effect in which the (un)blocking temperature spectra can change over only a few years resulting in nonideal experimental behavior. While a fresh remanence may conform to the requirement of equality of blocking and unblocking temperatures, aged remanences may not. Blocking temperature spectra can be unstable (fragile), which precludes reproduction of the conditions under which the original magnetization was acquired. This limits our ability to acquire accurate and precise ancient magnetic field strength estimates because differences between known and estimated fields can be significant for individual specimens, with a low field bias. Fragility of unblocking temperature spectra may be related to grain sizes with lower energy barriers and may be detected by features observed in first-order reversal curves.  
+</details>
+
+
+
+## 2020
 
 **25 November 2020** - "Archaeomagnetic research in Italy: Recent advances and future perspectives"  
 Author: **Evdokia Tema** (University of Turin (Università degli Studi di Torino), Italy)  
