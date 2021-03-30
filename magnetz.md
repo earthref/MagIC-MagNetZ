@@ -8,30 +8,21 @@ Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their
 
 #### Upcoming Seminars
 
-**17 March 2021** - "Magnetic minerals in archaeological ceramics — old wineskins, new wine"  
-Author Website: [Andrei Kosterov](https://www.researchgate.net/profile/Andrei-Kosterov)  
-Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
-YouTube Video: <!-- [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)-->  
-Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
-<details><summary>Abstract</summary>
-Understanding how magnetic minerals are formed in archaeological ceramics and baked clay is crucial for assessing the reliability of archaeointensity determinations, and could also contribute to reconstructing the ceramics manufacture process. Magnetic minerals in archaeological ceramics and baked clay may be inherited from the parent material, or, more frequently, formed during the firing process. The resulting magnetic mineralogy may be complex, including ferrimagnetic phases not commonly encountered in rocks.
-In this talk, I will review the current understanding of magnetic mineralogy of archaeological ceramics and baked clay using the material from Bulgaria and Russia as an example.  
-</details>
 
-----
-
-**31 March 2021** - "TBC"  
+**31 March 2021** - "Evidence for an intermittent lunar dynamo"  
+Author: **Jay Shah** (Massachusetts Institute of Technology, USA)  
 Author Website: [Jay Shah](https://eapsweb.mit.edu/people/jayshah)  
 Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
 YouTube Video: <!-- [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)-->  
 Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
 <details><summary>Abstract</summary>
-TBC  
+Paleointensity data suggest the presence of a lunar dynamo with a surface intensity reaching tens of µT during the period 4.25 to 3.56 Ga and subsequently declining to several µT during the following ~2 billion years. However, the lunar energy budget does not appear to be able to continuously power such a strong dynamo for so long. A proposed solution to this conundrum is that the lunar dynamo was in fact highly time-variable or even intermittently active during this period. However, until now, there has been no Thellier paleointensity data from Apollo lunar samples to support a time-variable dynamo. Using our newly developed oxygen fugacity controlled atmosphere thermal demagnetizer, we report new paleointensity data from lunar regolith breccias showing near-zero (< 0.5 µT) paleointensity at 3.3 ± 0.43 Ga and at 1.7 ± 0.43 Ga. This supports the proposal that the average field may have been significantly weaker than implied by the highest paleointensities, consistent with the expected energy budget for the lunar core.  
 </details>
 
 ----
 
 **04 April 2021** - "Applying magnetic anisotropy to pore space characterization"  
+Author: **Andrea Biedermann** (Institute of Geological Sciences, University of Bern, Switzerland)  
 Author Website: [Andrea Biedermann](http://www.andrea-biedermann.ch/)  
 Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
 YouTube Video: <!-- [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)-->  
@@ -49,7 +40,21 @@ The anisotropic properties of a formation’s pore space largely control preferr
 
 ## 2021
 
+**17 March 2021** - "Magnetic minerals in archaeological ceramics — old wineskins, new wine"  
+Author: **Andrei Kosterov** (St. Petersburg State University, Russia)  
+Author Website: [Andrei Kosterov](https://www.researchgate.net/profile/Andrei-Kosterov)  
+Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
+YouTube Video: [youtu.be/cQvab1UJqBE](https://youtu.be/cQvab1UJqBE)  
+Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
+<details><summary>Abstract</summary>
+Understanding how magnetic minerals are formed in archaeological ceramics and baked clay is crucial for assessing the reliability of archaeointensity determinations, and could also contribute to reconstructing the ceramics manufacture process. Magnetic minerals in archaeological ceramics and baked clay may be inherited from the parent material, or, more frequently, formed during the firing process. The resulting magnetic mineralogy may be complex, including ferrimagnetic phases not commonly encountered in rocks.
+In this talk, I will review the current understanding of magnetic mineralogy of archaeological ceramics and baked clay using the material from Bulgaria and Russia as an example.  
+</details>
+
+----
+
 **03 March 2021** - "Constraining the decline of the Moon's magnetic field through experimental analyses of Apollo samples"  
+Author: **Beck Strauss** (NIST & NASA Goddard Space Flight Center, USA)  
 Author Website: [Beck Strauss]( https://bestrauss.com)  
 Download Video: [earthref.org/ERDA/2463](https://earthref.org/ERDA/2463/)  
 YouTube Video: [youtu.be/E4GoB2CaZRo](https://youtu.be/E4GoB2CaZRo)  
@@ -61,6 +66,7 @@ Recent paleomagnetic studies of lunar rocks have suggested that the Moon's magne
 ----
 
 **17 February 2021** - "Understanding Nonideal Paleointensity Recording in Igneous Rocks"  
+Author: **Lisa Tauxe** (Scripps Institute of Oceanography, UCSD, USA)  
 Author Website: [Lisa Tauxe](https://ltauxe.scrippsprofiles.ucsd.edu/)  
 Download Video: [earthref.org/ERDA/2462](https://earthref.org/ERDA/2462/)  
 YouTube Video: [youtu.be/KZrwiZzhsj8](https://youtu.be/KZrwiZzhsj8)  
