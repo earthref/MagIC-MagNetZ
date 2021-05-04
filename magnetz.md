@@ -9,28 +9,9 @@ Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their
 #### Upcoming Seminars
 
 
-**31 March 2021** - "Evidence for an intermittent lunar dynamo"  
-Author: **Jay Shah** (Massachusetts Institute of Technology, USA)  
-Author Website: [Jay Shah](https://eapsweb.mit.edu/people/jayshah)  
-Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
-YouTube Video: <!-- [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)-->  
-Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
-<details><summary>Abstract</summary>
-Paleointensity data suggest the presence of a lunar dynamo with a surface intensity reaching tens of µT during the period 4.25 to 3.56 Ga and subsequently declining to several µT during the following ~2 billion years. However, the lunar energy budget does not appear to be able to continuously power such a strong dynamo for so long. A proposed solution to this conundrum is that the lunar dynamo was in fact highly time-variable or even intermittently active during this period. However, until now, there has been no Thellier paleointensity data from Apollo lunar samples to support a time-variable dynamo. Using our newly developed oxygen fugacity controlled atmosphere thermal demagnetizer, we report new paleointensity data from lunar regolith breccias showing near-zero (< 0.5 µT) paleointensity at 3.3 ± 0.43 Ga and at 1.7 ± 0.43 Ga. This supports the proposal that the average field may have been significantly weaker than implied by the highest paleointensities, consistent with the expected energy budget for the lunar core.  
-</details>
 
-----
-
-**04 April 2021** - "Applying magnetic anisotropy to pore space characterization"  
-Author: **Andrea Biedermann** (Institute of Geological Sciences, University of Bern, Switzerland)  
-Author Website: [Andrea Biedermann](http://www.andrea-biedermann.ch/)  
-Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
-YouTube Video: <!-- [youtu.be/Ccg9C5U9ozk](https://youtu.be/Ccg9C5U9ozk)-->  
-Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
-<details><summary>Abstract</summary>
-The anisotropic properties of a formation’s pore space largely control preferred flow directions. An accurate 3D description of pore space properties is thus essential in reservoir characterization and fluid migration studies. Traditional characterization methods face trade-offs between sample volume and resolution amongst other challenges. Magnetic pore fabrics, i.e., the anisotropy of magnetic susceptibility in ferrofluid-impregnated samples, have been proposed to capture pores down to 10 nm in standard-sized samples. Promising empirical relationships exist between magnetic pore fabrics and pore shape and orientation distributions, but are compromised by a large variability between studies. New numerical and experimental data provide insight into the sources of this variability, and allow for a quantitative interpretation of magnetic pore fabrics in future applications.  
-</details>
-
+**19 May 2021** - "TBC"  
+Author: **Phil Livermore** (University of Leeds, UK)  
   
   
 ----
@@ -39,6 +20,30 @@ The anisotropic properties of a formation’s pore space largely control preferr
 # Previous Seminars
 
 ## 2021
+
+**04 April 2021** - "Applying magnetic anisotropy to pore space characterization"  
+Author: **Andrea Biedermann** (Institute of Geological Sciences, University of Bern, Switzerland)  
+Author Website: [Andrea Biedermann](http://www.andrea-biedermann.ch/)  
+Download Video: [earthref.org/ERDA/2466](https://earthref.org/ERDA/2466/)  
+YouTube Video: [youtu.be/DuYT3GB1cdU](https://youtu.be/DuYT3GB1cdU)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2466](https://dx.doi.org/10.7288/V4/ERDA/2466)
+<details><summary>Abstract</summary>
+The anisotropic properties of a formation’s pore space largely control preferred flow directions. An accurate 3D description of pore space properties is thus essential in reservoir characterization and fluid migration studies. Traditional characterization methods face trade-offs between sample volume and resolution amongst other challenges. Magnetic pore fabrics, i.e., the anisotropy of magnetic susceptibility in ferrofluid-impregnated samples, have been proposed to capture pores down to 10 nm in standard-sized samples. Promising empirical relationships exist between magnetic pore fabrics and pore shape and orientation distributions, but are compromised by a large variability between studies. New numerical and experimental data provide insight into the sources of this variability, and allow for a quantitative interpretation of magnetic pore fabrics in future applications.  
+</details>
+
+----
+
+**31 March 2021** - "Evidence for an intermittent lunar dynamo"  
+Author: **Jay Shah** (Massachusetts Institute of Technology, USA)  
+Author Website: [Jay Shah](https://eapsweb.mit.edu/people/jayshah)  
+Download Video: [earthref.org/ERDA/2465](https://earthref.org/ERDA/2465/)  
+YouTube Video: [youtu.be/Hr1Bw4HT1S4](https://youtu.be/Hr1Bw4HT1S4)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2465](https://dx.doi.org/10.7288/V4/ERDA/2465)
+<details><summary>Abstract</summary>
+Paleointensity data suggest the presence of a lunar dynamo with a surface intensity reaching tens of µT during the period 4.25 to 3.56 Ga and subsequently declining to several µT during the following ~2 billion years. However, the lunar energy budget does not appear to be able to continuously power such a strong dynamo for so long. A proposed solution to this conundrum is that the lunar dynamo was in fact highly time-variable or even intermittently active during this period. However, until now, there has been no Thellier paleointensity data from Apollo lunar samples to support a time-variable dynamo. Using our newly developed oxygen fugacity controlled atmosphere thermal demagnetizer, we report new paleointensity data from lunar regolith breccias showing near-zero (< 0.5 µT) paleointensity at 3.3 ± 0.43 Ga and at 1.7 ± 0.43 Ga. This supports the proposal that the average field may have been significantly weaker than implied by the highest paleointensities, consistent with the expected energy budget for the lunar core.  
+</details>
+
+----
 
 **17 March 2021** - "Magnetic minerals in archaeological ceramics — old wineskins, new wine"  
 Author: **Andrei Kosterov** (St. Petersburg State University, Russia)  
