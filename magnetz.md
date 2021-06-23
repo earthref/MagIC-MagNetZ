@@ -10,9 +10,15 @@ Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their
 
 
 
-**19 May 2021** - "TBC"  
-Author: **Phil Livermore** (University of Leeds, UK)  
-  
+**30 June 2021** - "Space weather and its impact on grounded technological infrastructure"  
+Author: **Gemma Richardson** (British Geological Survey, UK)  
+Author Website: [Gemma Richardson](https://www.bgs.ac.uk/people/richardson-gemma/)  
+Download Video: [earthref.org/ERDA/2XXX](https://earthref.org/ERDA/2XXX/)  
+YouTube Video: []()  
+Presentation Reference DOI: [10.7288/V4/ERDA/2XXX](https://dx.doi.org/10.7288/V4/ERDA/2XXX)
+<details><summary>Abstract</summary>
+The anisotropic properties of a formation’s pore space largely control preferred flow directions. An accurate 3D description of pore space properties is thus essential in reservoir characterization and fluid migration studies. Traditional characterization methods face trade-offs between sample volume and resolution amongst other challenges. Magnetic pore fabrics, i.e., the anisotropy of magnetic susceptibility in ferrofluid-impregnated samples, have been proposed to capture pores down to 10 nm in standard-sized samples. Promising empirical relationships exist between magnetic pore fabrics and pore shape and orientation distributions, but are compromised by a large variability between studies. New numerical and experimental data provide insight into the sources of this variability, and allow for a quantitative interpretation of magnetic pore fabrics in future applications.  
+</details>  
   
 ----
   
@@ -20,6 +26,27 @@ Author: **Phil Livermore** (University of Leeds, UK)
 # Previous Seminars
 
 ## 2021
+
+**23 June 2021** - "Magnetotactic bacteria and magnetofossils: what does their presence tell us about paleomagnetic and environmental signals?"  
+Author: **Andrew Roberts** (Australian National University, Australia)  
+Author Website: [Andrew Roberts](https://earthsciences.anu.edu.au/people/academics/professor-andrew-p-roberts)  
+Download Video: [earthref.org/ERDA/2473](https://earthref.org/ERDA/2473/)  
+YouTube Video: [youtu.be/f60glhewctw](https://youtu.be/f60glhewctw)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2473](https://dx.doi.org/10.7288/V4/ERDA/2473)
+<details><summary>Abstract</summary>
+Some people had a misspent youth. I waited until I was an adult and spent it studying the magnetism of mud. In seeking highly resolved records of geomagnetic field, tectonic, or climate change, I learned early that diagenesis affects EVERY record. The question is not one of “if” diagenesis has affected a record, but “by how much?” Diagenesis colours my view of sedimentary magnetism at a deep level. OK, but what does this have to do with magnetotactic bacteria (MTB)? The dominant view of MTB is that they are ubiquitous in aquatic environments and that they inhabit chemical gradients across the oxic-anoxic interface in water columns and sediments. OAI environments are where diagenesis starts to become important, so my expectation for 20 years was that, while MTB are interesting organisms, they should not be important in the geological record because their post-mortem remains (magnetofossils) would be buried in environments dominated by reductive diagenesis, which would cause them to dissolve and not be preserved. Various other MTB curiosities intrigued me, but I did not care enough about exploring them if magnetofossils were not paleomagnetically or paleoenvironmentally important. About 10 years ago, my views turned on their head when we and other groups started to find evidence for widespread magnetofossil preservation in some ancient sedimentary environment types. This raises questions about the environments in which MTB lived. Do MTB always inhabit OAI environments? What is the environmental function of MTB? What is the benefit of magnetic navigation, or magnetotaxis? Are MTB involved in biogeochemical elemental cycling? Can magnetofossil morphology tell us anything useful about the environment? Can it be used as a paleoenvironmental proxy? We expect from their single domain magnetic properties that magnetofossils will be ideal paleomagnetic recorders, but what happens to things like relative paleointensity (RPI) recording when magnetofossils and detrital magnetite occur together? Do they have the same or different magnetization acquisition efficiency? If not, what does this mean for RPI recording? When did MTB appear in geological time? Can this tell us anything about evolution of the geodynamo that generate our planetary magnetic field? Much has been learned about these questions in recent years. My aim is to tell you about some of the exciting things we have been learning about MTB and point to some exciting unanswered questions. Let’s misspend an hour together exploring this subject.  
+</details>
+
+**19 May 2021** - "Archeomagnetic intensity variations during the era of geomagnetic spikes in the Levant"  
+Author: **Phil Livermore** (University of Leeds, UK)  
+Author Website: [Phil Livermore](https://environment.leeds.ac.uk/see/staff/1381/dr-phil-livermore)  
+Download Video: [earthref.org/ERDA/2469](https://earthref.org/ERDA/2469/)  
+YouTube Video: [youtu.be/5Y-ZIjLMXoA](https://youtu.be/5Y-ZIjLMXoA)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2469](https://dx.doi.org/10.7288/V4/ERDA/2469)
+<details><summary>Abstract</summary>
+Archeomagnetic analyses of densely sampled artefacts from the Near-East have suggested that the intensity variation during the first millennium BCE was punctuated with two geomagnetic spikes with rates of change of intensity exceeding 1 μT/yr, whose extreme behaviour is challenging to explain from a geodynamo perspective. I will describe a new transdimensional Bayesian method designed to capture variations on both long and short timescales, which when applied to data only at the fragment (thermal- unit) level requires a complex intensity variation with no less than six spikes, each with an approximate duration of between 30 and 100 years. However, the nature of the inferred intensity evolution and the number of spikes detected are fragile and highly dependent on the specific treatment of the archeomagnetic data.  
+</details>
+
 
 **04 April 2021** - "Applying magnetic anisotropy to pore space characterization"  
 Author: **Andrea Biedermann** (Institute of Geological Sciences, University of Bern, Switzerland)  
@@ -48,9 +75,9 @@ Paleointensity data suggest the presence of a lunar dynamo with a surface intens
 **17 March 2021** - "Magnetic minerals in archaeological ceramics — old wineskins, new wine"  
 Author: **Andrei Kosterov** (St. Petersburg State University, Russia)  
 Author Website: [Andrei Kosterov](https://www.researchgate.net/profile/Andrei-Kosterov)  
-Download Video: <!-- [earthref.org/ERDA/2458](https://earthref.org/ERDA/2458/) -->  
+Download Video: [earthref.org/ERDA/2464](https://earthref.org/ERDA/2464/)  
 YouTube Video: [youtu.be/cQvab1UJqBE](https://youtu.be/cQvab1UJqBE)  
-Presentation Reference DOI: <!-- [10.7288/V4/ERDA/2458](https://dx.doi.org/10.7288/V4/ERDA/2458)-->
+Presentation Reference DOI: [10.7288/V4/ERDA/2464](https://dx.doi.org/10.7288/V4/ERDA/2464)
 <details><summary>Abstract</summary>
 Understanding how magnetic minerals are formed in archaeological ceramics and baked clay is crucial for assessing the reliability of archaeointensity determinations, and could also contribute to reconstructing the ceramics manufacture process. Magnetic minerals in archaeological ceramics and baked clay may be inherited from the parent material, or, more frequently, formed during the firing process. The resulting magnetic mineralogy may be complex, including ferrimagnetic phases not commonly encountered in rocks.
 In this talk, I will review the current understanding of magnetic mineralogy of archaeological ceramics and baked clay using the material from Bulgaria and Russia as an example.  
