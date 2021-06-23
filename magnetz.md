@@ -13,11 +13,11 @@ Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their
 **30 June 2021** - "Space weather and its impact on grounded technological infrastructure"  
 Author: **Gemma Richardson** (British Geological Survey, UK)  
 Author Website: [Gemma Richardson](https://www.bgs.ac.uk/people/richardson-gemma/)  
-Download Video: [earthref.org/ERDA/2XXX](https://earthref.org/ERDA/2XXX/)  
+Download Video: []()  
 YouTube Video: []()  
 Presentation Reference DOI: [10.7288/V4/ERDA/2XXX](https://dx.doi.org/10.7288/V4/ERDA/2XXX)
 <details><summary>Abstract</summary>
-The anisotropic properties of a formation’s pore space largely control preferred flow directions. An accurate 3D description of pore space properties is thus essential in reservoir characterization and fluid migration studies. Traditional characterization methods face trade-offs between sample volume and resolution amongst other challenges. Magnetic pore fabrics, i.e., the anisotropy of magnetic susceptibility in ferrofluid-impregnated samples, have been proposed to capture pores down to 10 nm in standard-sized samples. Promising empirical relationships exist between magnetic pore fabrics and pore shape and orientation distributions, but are compromised by a large variability between studies. New numerical and experimental data provide insight into the sources of this variability, and allow for a quantitative interpretation of magnetic pore fabrics in future applications.  
+Space weather is a relative newcomer to the world of natural hazards as it affects our technology, rather having a direct impact on us. However, as our reliance on technology grows ever stronger it is becoming more and more important to understand the causes and effects of space weather so that we can mitigate against them. Geomagnetic storms can lead to damage to ground based technological infrastructure, such as power grids, pipelines and railways, and so have the potential to be incredibly disruptive to our daily lives. In this talk I will give an overview of space weather forecasting and research and describe some of the work we are doing to help understand how geomagnetically induced currents affect technology. 
 </details>  
   
 ----
