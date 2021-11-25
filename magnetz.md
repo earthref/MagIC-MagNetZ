@@ -1,23 +1,25 @@
 <p align="center"><img src="https://github.com/earthref/MagIC-MagNetS/raw/master/MagnetZ_Logo.jpg"></p>
 
-MagNetZ (Magnetic NetworkZ) is a biweekly online seminar organized by Greig Paterson and Anita Di Chiara. The seminars cover topics in the geomagnetism, paleomagnetism, rock magnetism, archeomagnetism, and environmental magnetism (all things magnetic). The Zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk) or [adichiara@ucsd.edu](mailto:adichiara@ucsd.edu).
+MagNetZ (Magnetic NetworkZ) is a biweekly online seminar organized by Greig Paterson, Anita Di Chiara, Annique van der Boon, Richard Bono, and Dan Thallner. The seminars cover topics in the geomagnetism, paleomagnetism, rock magnetism, archeomagnetism, and environmental magnetism (all things magnetic). The Zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk) or [adichiara@ucsd.edu](mailto:adichiara@ucsd.edu).
 
 The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtube.com/channel/UCS-a6kZc8bdQoDMGSF1cIZ](https://www.youtube.com/channel/UCS-a6kZc8bdQoDMGSF1cIZg).
 
-Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their help supprting MagNetZ. We also thank Simon Lloyd for designing our MagNetZ logo and our various helpers moderating the seminars.
+Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their help supporting MagNetZ. We also thank Simon Lloyd for designing our MagNetZ logo and our various helpers moderating the seminars.
 
 #### Upcoming Seminars
 
 
 
-**30 June 2021** - "Space weather and its impact on grounded technological infrastructure"  
-Author: **Gemma Richardson** (British Geological Survey, UK)  
-Author Website: [Gemma Richardson](https://www.bgs.ac.uk/people/richardson-gemma/)  
-Download Video: []()  
-YouTube Video: []()  
-Presentation Reference DOI: [10.7288/V4/ERDA/2XXX](https://dx.doi.org/10.7288/V4/ERDA/2XXX)
+**01 December 2021** - "Neanderthals in the Forest: A correlation of the Blake Event with Eemian pollenzones"  
+Author: **Mark Sier** (CENIEH, Burgos, Spain)  
+<!--- Author Website: [Mark Sier]()  
+Download Video: [earthref.org/ERDA/25XX](https://earthref.org/ERDA/25XX/)  
+YouTube Video: [youtu.be/](https://youtu.be/)  
+Presentation Reference DOI: [10.7288/V4/ERDA/25XX](https://dx.doi.org/10.7288/V4/ERDA/25XX) --->
 <details><summary>Abstract</summary>
-Space weather is a relative newcomer to the world of natural hazards as it affects our technology, rather having a direct impact on us. However, as our reliance on technology grows ever stronger it is becoming more and more important to understand the causes and effects of space weather so that we can mitigate against them. Geomagnetic storms can lead to damage to ground based technological infrastructure, such as power grids, pipelines and railways, and so have the potential to be incredibly disruptive to our daily lives. In this talk I will give an overview of space weather forecasting and research and describe some of the work we are doing to help understand how geomagnetically induced currents affect technology. 
+One of the key periods to understand the Neandertal ecological niche and tolerances in Europe is the Eemian (Ipswichian). This interglacial stage is the last and best documented interglacial stage in which Neandertals were present in Europe. In order to further specify the timing and character of this occupation, detailed palaeomagnetic and environmental studies were carried out at the interglacial sites of Neumark Nord 2 (Germany), Rutten (The Netherlands), and Caours (France). For the Last Interglacial, a global stratigraphic marker has been documented, the so-called Blake Event. This palaeomagnetic event is recorded in both marine and terrestrial sediments and has been found in settings that allow direct correlation with the Marine Isotope Stage record.
+
+Palaeomagnetic studies at Neumark Nord 2, Rutten and Caours have provided a strong indication for the presence of a palaeomagnetic event, which we have identified as the Blake. We were able to correlate this Blake Event to the pollenzones of the Eemian  sensu  stricto at Rutten and at Neumark Nord 2. The observed position of the Blake Event in relation to the Eemian in north western and central Europe supports a time lag of 5000 years between the onset of the Eemian in the south and the northern-central parts of Europe. This result has consequences for views of the chronological and geographical limits of the Neanderthal range. As an example, our correlation indicates that both Neumark Nord 2 and Caours were occupied well after the MIS 5e global high sea level stand. This implies that during these occupations, easy access to the British Isles was blocked by the fully developed English Channel, possibly explaining the absence of hominins in what is now Great Britain at that period.
 </details>  
   
 ----
@@ -26,6 +28,112 @@ Space weather is a relative newcomer to the world of natural hazards as it affec
 # Previous Seminars
 
 ## 2021
+
+**17 November 2021** - "Assembly of proto-Australia during the formation of the Nuna supercontinent in the Paleoproterozoic"  
+Author: **Uwe Kirscher** (University of Tübingen, Germany)  
+Author Website: [Uwe Kirscher](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/palaeobiologie/forschungsbereich/terrestrische-palaeoklimatologie/work-group/work-group-boehme/uwe-kirscher/)  
+Download Video: [earthref.org/ERDA/2504](https://earthref.org/ERDA/2504/)  
+YouTube Video: [youtu.be/AIDJKltn5hM](https://youtu.be/AIDJKltn5hM)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2504](https://dx.doi.org/10.7288/V4/ERDA/2504)
+<details><summary>Abstract</summary>
+It is still unclear how the supercontinent cycles initiated on Earth. Obtaining a deeper insight into the paleogeographic aspects of this mechanism will yield important boundary conditions for fundamental evolutionary transitions on Earth. Some of them are the onset of plate tectonics or the evolution of life. More evidence is emerging that the Paleoproterozoic supercontinent Nuna actually represents the first of its kind with a similar tenure and size compared to its successors Rodinia and Pangea. To add further understanding how the supercontinent cycles are related and if they are related to similar mantle processes, more data is needed on the potentially first supercontinent cycle. To address this debate, I will present new paleomagnetic results from two Paleoproterozoic rock formations in North Australia. First, we obtained paleomagnetic directions from the 1825±4 Ma, bimodal Plum Tree Creek Volcanics sequence of the North Australian Craton (NAC). Second, we studied the 1855±2 Ma layered mafic-ultramafic ‘Toby’ intrusion from the Kimberley Craton (KC). Samples from both study areas reveal high quality, stable, magnetite related characteristic remanent magnetization directions. Combining within-site clustered mean directions, we obtained two paleopoles, which plot proximal to each other in the present day central Pacific Ocean, off the east coast of Australia. These results agree with previous interpretation that the Kimberly Craton was amalgamated with the rest of the NAC prior to ca. 1.85 Ga. Comparing these new results with slightly younger poles from the NAC and slightly older, rotated poles form the West Australian Craton (WAC) reveal a high degree of similarity suggesting minimal absolute plate motion between ca. 1.9 and 1.65 Ga. All available paleomagnetic poles agree with an assembly, or close juxtaposition, of the two major Australian cratons (NAC and WAC) before 1.8 Ga. Furthermore, the individual virtual geomagnetic poles from the potentially slow cooled Toby intrusion show a non-fisherian distribution along a great circle. This spread might be related to previously interpreted major true polar wander events based on data from Laurentian cratons, which would be global if such an interpretation is correct. The assembly of proto-Australia prior to ca. 1.85 Ga roughly 250 to 300 Myr before the final stage of supercontinent Nuna’s amalgamation ca. 1.6 Ga suggests that assembly of Earth’s first supercontinent was a prolonged process and seems different compared to assembly events of later supercontinents. This together with a rather long tenure period of Nuna might indicate the initiation period of supercontinent cycles necessary for the modern plate tectonic world in the Phanerozoic.
+</details> 
+
+----
+
+**03 November 2021** - "Magnetic properties of late Holocene Dead Sea sediments as a monitor of regional hydroclimate"  
+Author: **Yael Ebert** (The Hebrew University of Jerusalem, Israel)  
+Author Website: [Yael Ebert](https://en.earth.huji.ac.il/people/yael-ebert)  
+Download Video: [earthref.org/ERDA/2499](https://earthref.org/ERDA/2499/)  
+YouTube Video: [youtu.be/4cTWQNtgsJM](https://youtu.be/4cTWQNtgsJM)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2499](https://dx.doi.org/10.7288/V4/ERDA/2499)
+<details><summary>Abstract</summary>
+Diagenetic processes in anoxic sedimentary environments influence sediment magnetic properties mainly through dissolution of detrital magnetite and precipitation of authigenic greigite. Recently exposed late Holocene Dead Sea sediments provide an opportunity to study the processes governing greigite formation and preservation, and their relation to different hydrological settings. Magnetic data and pore-fluid compositions were obtained from three Holocene sections along a N-S transect on the western Dead Sea shore: Og, Ein-Feshkha, and Ein-Gedi. The northern sections are closer to the major freshwater source to the Dead Sea – the Jordan River. Detrital titanomagnetite is present at all sections, but greigite is the dominant magnetic phase at Og and Ein-Feshkha. Bulk rock magnetic data varies between and within the sections by over three orders of magnitude, where higher values indicate higher greigite concentrations. At the three sites, pore-fluids have similar or lower salinity than the modern and Holocene Dead Sea brine, with variable and dissolved iron (Fe2+) and sulfate (SO42-). Magnetic property changes are reflected by iron and/or sulfate microbial reduction that controlled sedimentary greigite formation. We propose that the N-S greigite decrease suggests that anoxic microbial activity was controlled by labile organic matter and/or reactive iron brought by, or formed as a result of, freshwater influx from the Jordan River. Hence, greigite concentration changes depended on past freshwater input to the hypersaline lake and proximity to the freshwater source. The apparent relationship between hydrological conditions and magnetic properties provides a new method to trace past hydrological changes in the Dead Sea.
+</details> 
+
+----
+
+**20 October 2021** - "Beyond single grains and single domains – using big data to answer fundamental questions in rock magnetism"  
+Author: **Les Nagy** (Scripps Institute of Oceanography, UCSD, USA)  
+Author Website: [Les Nagy](https://orcid.org/0000-0002-5104-7680)  
+Download Video: [earthref.org/ERDA/2486](https://earthref.org/ERDA/2486/)  
+YouTube Video: [youtu.be/r0crX4YiMlY](https://youtu.be/r0crX4YiMlY)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2486](https://dx.doi.org/10.7288/V4/ERDA/2486)
+<details><summary>Abstract</summary>
+The magnetic field is a fundamental feature of the Earth, and its structure gives us important information about the geological processes deep within our planet. Since rocks can retain records of the Earth’s field over billions of years, they provide a window into the past and can answer basic questions such as how our planet was formed. The way in which rocks acquire information and the techniques used in the laboratory to recover the ancient field is complicated by the fact that our understanding of the small magnetic particles that hold the ancient field is incomplete. Néel’s single-domain (SD) theory has shaped our understanding of magnetic recording and forms the basis of current experimental methods used to extract palaeomagnetic signals. However, despite its undeniable success, the theory is limited in the sizes and morphologies it can explain and it has long since been recognized that the majority of magnetic minerals form particles that are too large to be uniformly magnetized. These larger grains contain pseudo-single domains (PSD) and show a range of behaviors that are quite unexpected. For example, recent work has shown that so-called single-vortex (SV) domain structures are not only significantly more common than SD, since they occupy a larger range of grain sizes, but are also surprisingly thermally stable. It has also been observed that as grain sizes increase and the SD state evolves into the SV state, the transition is marked by an “unstable zone” – a region characterized by low blocking temperatures and coercivities, but an increase in the number of possible domain states that can be nucleated in the grain. In this talk we explore how palaeomagnetic samples record information, in particular the effect of SV grains on the acquisition and recovery of ancient planetary fields. What is the current state of the art in our understanding of non-uniform recorders and what is the way towards fully characterizing the mechanisms by which rocks record information?
+</details> 
+
+----
+
+**06 October 2021** - "Application of the Tsunakawa-Shaw method to lava samples with "aged" thermoremanent magnetizations in laboratory"  
+Author: **Yuhji Yamamoto** (Kochi University, Japan)  
+Author Website: [Yuhji Yamamoto](https://www.researchgate.net/profile/Yuhji-Yamamoto)  
+Download Video: [earthref.org/ERDA/2484](https://earthref.org/ERDA/2484/)  
+YouTube Video: [youtu.be/zyTp_2_sOak](https://youtu.be/zyTp_2_sOak)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2484](https://dx.doi.org/10.7288/V4/ERDA/2484)
+<details><summary>Abstract</summary>
+Absolute paleointensity (API) of the geomagnetic field can be estimated from a volcanic rock based on a comparison between a natural remanent magnetization (NRM) and a laboratory-induced thermoremanent magnetization (Lab-TRM). It is known that a plot of NRM vs Lab-TRM (Arai plot) based on their blocking temperature spectra, which can be obtained using a Thellier-type method, often exhibits a non-ideal curvature. Recent investigations have found that such a curvature generally increase through time except an ideal sample, and the increase mainly originates from a shift to high unblocking temperatures across the entire temperature range after aging. API can also be estimated in a coercivity space, using a Shaw-type method. One of the latest version of the method is formerly called the LTD-DHT Shaw method and now called the Tsunakawa-Shaw (TS) method. In the present study, we applied the TS method to 20 specimens aged in the laboratory field of 70.0 µT for two years. Total 17 API estimates were successfully obtained and they resulted in an overall average (median) of 69.3 (69.6) µT with a standard deviation of 2.7 µT, if we excluded one estimate of 54.2 µT as an outlier because it was significantly deviated from the other estimates. API estimates by the IZZI Thellier method were previously obtained from sister specimens from the same samples used in the present study, and their Arai plots resulted in variable curvatures. Causes of such IZZI curvatures seem to have certain relations to remanences originating from the magnetocrystalline anisotropy, as there is a tendency that amounts of anhysteretic remanent magnetization demagnetized by low-temperature demagnetization (LTD) were larger for the samples with the larger IZZI curvatures. The LTD treatment in the TS method could not necessarily result in straight NRM-TRM1 and ARM0-ARM1 plots, though degree of the curvatures in the two plots are similar for the same specimens resulting in more or less straight NRM-TRM1* plots with reasonable API estimates.
+</details> 
+
+----
+
+**08 September 2021** - "Dynamo simulations with a stably-stratified F-layer at the base of Earth’s outer core"  
+Author: **Jenny Wong** (ISTerre, Université de Grenoble-Alpes, France)  
+Author Website: [Jenny Wong](https://jnywong.netlify.app/)  
+Download Video: [earthref.org/ERDA/2482](https://earthref.org/ERDA/2482/)  
+YouTube Video: [youtu.be/V88DPjIb7Lw](https://youtu.be/V88DPjIb7Lw)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2482](https://dx.doi.org/10.7288/V4/ERDA/2482)
+<details><summary>Abstract</summary>
+Seismic observations reveal a slowdown in the P wave velocity at the base of the Earth’s outer core attributed to the presence of a stably-stratified layer, also known as the F-layer. In this talk, we focus on the impact of the F-layer on the geodynamo process that generates the Earth’s magnetic field. Field generation is mainly powered by thermal and compositional convection in the liquid bulk of the core, and the dynamics can be divided into two distinct regions inside and outside the tangent cylinder: this is conventionally defined as a cylinder tangent to the inner core boundary and aligned with the rotation axis. Using numerical dynamo models with core-mantle coupling, we simulate a stably stratified layer at the base of the core with varying degrees of stratification that effectively increases the size of the tangent cylinder and alters the dynamics thereof. We find that zonal flows beneath the CMB are significantly enhanced by the F-layer while jets emanating from the tangent cylinder become detached due to the rearrangement of the thermal wind balance caused by the shift in electromagnetic and gravitational torques. We evaluate the magnetic field at the core surface and determine a possible geomagnetic signature of the F-layer from our simulations independent of the degree of stratification, in which the location of the maximal radial field strength associated with the envelope of a polar magnetic minimum seen in the geomagnetic data is shifted by several degrees in latitude.
+</details> 
+
+----
+
+**11 August 2021** - "Simple Uncertainty Propagation For New And Legacy Paleomagnetic Data"  
+Author: **Dave Heslop** (Australian National University, Australia)  
+Author Website: [Dave Heslop](https://earthsciences.anu.edu.au/people/academics/dr-david-heslop)  
+Download Video: [earthref.org/ERDA/2480](https://earthref.org/ERDA/2480/)  
+YouTube Video: [youtu.be/dC5T4ZSUg8w](https://youtu.be/dC5T4ZSUg8w)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2480](https://dx.doi.org/10.7288/V4/ERDA/2480)
+<details><summary>Abstract</summary>
+Estimation of paleomagnetic directions plays a crucial role in archeomagnetism, magnetostratigaphy, paleogeographic reconstruction, and constraining past geomagnetic field behavior. While analysis and aggregation of paleomagnetic directional data is performed in a hierarchical fashion, the standard statistical framework employed by paleomagnetists does not consider uncertainty propagation through each level of the hierarchy (i.e., uncertainty of specimen-level principal component analysis, site mean, pole, etc.). With this limitation, inferences drawn from paleomagnetic data will be affected by underestimated uncertainties. I will present an approximate directional uncertainty propagation scheme that applies to Fisher distributions and, thus, to a number of paleomagnetic data processing tasks. The uncertainty propagation scheme is a straightforward addition to the existing statistical framework used to aggregate paleomagnetic directions. Importantly, this scheme can be applied readily to legacy data, even when sample-level demagnetization records are not available. Using illustrative case studies, I will show how uncertainties can be propagated through different stages of the paleomagnetic data processing chain. Finally, I will discuss the limitations of assuming that paleomagnetic directions are Fisher distributed.</details> 
+
+----
+
+**04 August 2021** - "A time-resolved paleomagnetic record of Main Group pallasites: Evidence for a large-cored, thin-mantled parent body"  
+Author: **Claire Nichols** (Oxford University, UK)  
+Author Website: [Claire Nichols](https://www.earth.ox.ac.uk/people/claire-nichols/)  
+Download Video: [earthref.org/ERDA/2479](https://earthref.org/ERDA/2479/)  
+YouTube Video: [youtu.be/gGd7G_kxYx0](https://youtu.be/gGd7G_kxYx0)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2479](https://dx.doi.org/10.7288/V4/ERDA/2479)
+<details><summary>Abstract</summary>
+Several paleomagnetic studies have been conducted on five main group pallasites: Brenham, Marjalahti, Springwater, Imilac and Esquel. These pallasites have distinct cooling histories, meaning that their paleomagnetic records may have been acquired at different times during the thermal evolution of their parent body. Here we compile new and existing data to present the most complete time-resolved paleomagnetic record for a planetesimal, which includes a period of quiescence prior to core solidification as well as dynamo activity generated by compositional convection during core solidification. We present new paleomagnetic data for the Springwater pallasite, which constrains the timing of core solidification. Our results suggest that in order to generate the observed strong paleointensities (about 65 – 95 μT), the pallasites must have been relatively close to the dynamo source. Our thermal and dynamo models predict that the main group pallasites originate from a planetesimal with a large core (greater than 200 km) and a thin mantle (less than 70 km).</details> 
+
+----
+
+**14 July 2021** - "Either side of Olduvai: high resolution reversals in archaeological and fossil bearing volcanic and palaeocave sequences from Kenya and South Africa"  
+Author: **Andy Herries** (La Trobe University, Australia)  
+Author Website: [Andy Herries](http://www.archaeomagnetism.com/)  
+Download Video: [earthref.org/ERDA/2477](https://earthref.org/ERDA/2477/)  
+YouTube Video: [youtu.be/28Zb9V-aXPQ](https://youtu.be/28Zb9V-aXPQ)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2477](https://dx.doi.org/10.7288/V4/ERDA/2477)
+<details><summary>Abstract</summary>
+Work over the last 20 years has established that magnetic reversals and events often occur in flowstone speleothem from early human fossil bearing palaeocave deposits in South Africa. Resolution within these reversals and events is often low due to the nature of sampling the flowstones. However, developments in uranium-lead dating over this same time period now allows such reversals and events to be directly dated with the magnetic signal being locked in rapidly during precipitation of the speleothem. Recent work at Drimolen Cave has identified for the first time a high-resolution magnetic reversal within palaeocave sediments and associated flowstone that has been correlated to the base of the Olduvai SubChron. Similar high-resolution reversals can also be identified in fossil and archaeological bearing volcanic sequences in eastern Africa, dated by argon-argon. Preliminary work at the site of Kilombe in Kenya has identified such a sequence that covers the reversal at the end of the Olduvai SubChron. Together these two sites span either side of the Olduvai SubChron and highlight the potential for such sequences in resolving the nature and dating of magnetic reversals and excursions. 
+</details>  
+
+----
+
+**30 June 2021** - "Space weather and its impact on grounded technological infrastructure"  
+Author: **Gemma Richardson** (British Geological Survey, UK)  
+Author Website: [Gemma Richardson](https://www.bgs.ac.uk/people/richardson-gemma/)  
+Download Video: [earthref.org/ERDA/2474](https://earthref.org/ERDA/2474/)  
+YouTube Video: [youtu.be/z342klMFCCo](https://youtu.be/z342klMFCCo)  
+Presentation Reference DOI: [10.7288/V4/ERDA/2474](https://dx.doi.org/10.7288/V4/ERDA/2474)
+<details><summary>Abstract</summary>
+Space weather is a relative newcomer to the world of natural hazards as it affects our technology, rather having a direct impact on us. However, as our reliance on technology grows ever stronger it is becoming more and more important to understand the causes and effects of space weather so that we can mitigate against them. Geomagnetic storms can lead to damage to ground based technological infrastructure, such as power grids, pipelines and railways, and so have the potential to be incredibly disruptive to our daily lives. In this talk I will give an overview of space weather forecasting and research and describe some of the work we are doing to help understand how geomagnetically induced currents affect technology. 
+</details>  
+
+----
 
 **23 June 2021** - "Magnetotactic bacteria and magnetofossils: what does their presence tell us about paleomagnetic and environmental signals?"  
 Author: **Andrew Roberts** (Australian National University, Australia)  
@@ -37,6 +145,8 @@ Presentation Reference DOI: [10.7288/V4/ERDA/2473](https://dx.doi.org/10.7288/V4
 Some people had a misspent youth. I waited until I was an adult and spent it studying the magnetism of mud. In seeking highly resolved records of geomagnetic field, tectonic, or climate change, I learned early that diagenesis affects EVERY record. The question is not one of “if” diagenesis has affected a record, but “by how much?” Diagenesis colours my view of sedimentary magnetism at a deep level. OK, but what does this have to do with magnetotactic bacteria (MTB)? The dominant view of MTB is that they are ubiquitous in aquatic environments and that they inhabit chemical gradients across the oxic-anoxic interface in water columns and sediments. OAI environments are where diagenesis starts to become important, so my expectation for 20 years was that, while MTB are interesting organisms, they should not be important in the geological record because their post-mortem remains (magnetofossils) would be buried in environments dominated by reductive diagenesis, which would cause them to dissolve and not be preserved. Various other MTB curiosities intrigued me, but I did not care enough about exploring them if magnetofossils were not paleomagnetically or paleoenvironmentally important. About 10 years ago, my views turned on their head when we and other groups started to find evidence for widespread magnetofossil preservation in some ancient sedimentary environment types. This raises questions about the environments in which MTB lived. Do MTB always inhabit OAI environments? What is the environmental function of MTB? What is the benefit of magnetic navigation, or magnetotaxis? Are MTB involved in biogeochemical elemental cycling? Can magnetofossil morphology tell us anything useful about the environment? Can it be used as a paleoenvironmental proxy? We expect from their single domain magnetic properties that magnetofossils will be ideal paleomagnetic recorders, but what happens to things like relative paleointensity (RPI) recording when magnetofossils and detrital magnetite occur together? Do they have the same or different magnetization acquisition efficiency? If not, what does this mean for RPI recording? When did MTB appear in geological time? Can this tell us anything about evolution of the geodynamo that generate our planetary magnetic field? Much has been learned about these questions in recent years. My aim is to tell you about some of the exciting things we have been learning about MTB and point to some exciting unanswered questions. Let’s misspend an hour together exploring this subject.  
 </details>
 
+----
+
 **19 May 2021** - "Archeomagnetic intensity variations during the era of geomagnetic spikes in the Levant"  
 Author: **Phil Livermore** (University of Leeds, UK)  
 Author Website: [Phil Livermore](https://environment.leeds.ac.uk/see/staff/1381/dr-phil-livermore)  
@@ -47,6 +157,7 @@ Presentation Reference DOI: [10.7288/V4/ERDA/2469](https://dx.doi.org/10.7288/V4
 Archeomagnetic analyses of densely sampled artefacts from the Near-East have suggested that the intensity variation during the first millennium BCE was punctuated with two geomagnetic spikes with rates of change of intensity exceeding 1 μT/yr, whose extreme behaviour is challenging to explain from a geodynamo perspective. I will describe a new transdimensional Bayesian method designed to capture variations on both long and short timescales, which when applied to data only at the fragment (thermal- unit) level requires a complex intensity variation with no less than six spikes, each with an approximate duration of between 30 and 100 years. However, the nature of the inferred intensity evolution and the number of spikes detected are fragile and highly dependent on the specific treatment of the archeomagnetic data.  
 </details>
 
+----
 
 **04 April 2021** - "Applying magnetic anisotropy to pore space characterization"  
 Author: **Andrea Biedermann** (Institute of Geological Sciences, University of Bern, Switzerland)  
