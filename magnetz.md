@@ -1,30 +1,17 @@
-<p align="center"><img src="https://github.com/earthref/MagIC-MagNetS/raw/master/MagnetZ_Logo.jpg"></p>
+<p align="center"><img src="https://github.com/earthref/MagIC-MagNetZ/raw/master/MagnetZ_Logo.jpg"></p>
 
-MagNetZ (Magnetic NetworkZ) is a biweekly online seminar organized by Greig Paterson, Anita Di Chiara, Annique van der Boon, Richard Bono, and Dan Thallner. The seminars cover topics in the geomagnetism, paleomagnetism, rock magnetism, archeomagnetism, and environmental magnetism (all things magnetic). The Zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk) or [adichiara@ucsd.edu](mailto:adichiara@ucsd.edu).
+MagNetZ (Magnetic NetworkZ) is a biweekly online seminar organized by Greig Paterson, Anita Di Chiara, Annique van der Boon, Richard Bono, and Dan Thallner. The seminars cover topics in the geomagnetism, paleomagnetism, rock magnetism, archeomagnetism, and environmental magnetism (all things magnetic). The Zoom link to the seminar will be sent out via email. Please send questions, interest in giving a seminar, or a request to be put on the mailing list for the seminars to [greig.paterson@liverpool.ac.uk](mailto:greig.paterson@liverpool.ac.uk).
 
-The MagIC YouTube Playlist for the MagNetZ seminar videos can be found at [youtube.com/channel/UCS-a6kZc8bdQoDMGSF1cIZ](https://www.youtube.com/channel/UCS-a6kZc8bdQoDMGSF1cIZg).
+Recordings of past seminars are posted to the MagNetZ YouTube channel at [youtube.com/@MagNetZ](https://www.youtube.com/@MagNetZ).
 
 Thanks to Nick Jarboe, Rupert Minnett and the EarthRef and MagIC teams for their help supporting MagNetZ. We also thank Simon Lloyd for designing our MagNetZ logo and our various helpers moderating the seminars.
 
 #### Upcoming Seminars
 
+Upcoming seminars are announced on the MagNetZ mailing list, and recordings are posted to the [MagNetZ YouTube channel](https://www.youtube.com/@MagNetZ). To join the mailing list or to propose a seminar, contact the organizers at the address above.
 
-
-**01 December 2021** - "Neanderthals in the Forest: A correlation of the Blake Event with Eemian pollenzones"  
-Author: **Mark Sier** (CENIEH, Burgos, Spain)  
-<!--- Author Website: [Mark Sier]()  
-Download Video: [earthref.org/ERDA/25XX](https://earthref.org/ERDA/25XX/)  
-YouTube Video: [youtu.be/](https://youtu.be/)  
-Presentation Reference DOI: [10.7288/V4/ERDA/25XX](https://dx.doi.org/10.7288/V4/ERDA/25XX) --->
-<details><summary>Abstract</summary>
-One of the key periods to understand the Neandertal ecological niche and tolerances in Europe is the Eemian (Ipswichian). This interglacial stage is the last and best documented interglacial stage in which Neandertals were present in Europe. In order to further specify the timing and character of this occupation, detailed palaeomagnetic and environmental studies were carried out at the interglacial sites of Neumark Nord 2 (Germany), Rutten (The Netherlands), and Caours (France). For the Last Interglacial, a global stratigraphic marker has been documented, the so-called Blake Event. This palaeomagnetic event is recorded in both marine and terrestrial sediments and has been found in settings that allow direct correlation with the Marine Isotope Stage record.
-
-Palaeomagnetic studies at Neumark Nord 2, Rutten and Caours have provided a strong indication for the presence of a palaeomagnetic event, which we have identified as the Blake. We were able to correlate this Blake Event to the pollenzones of the Eemian  sensu  stricto at Rutten and at Neumark Nord 2. The observed position of the Blake Event in relation to the Eemian in north western and central Europe supports a time lag of 5000 years between the onset of the Eemian in the south and the northern-central parts of Europe. This result has consequences for views of the chronological and geographical limits of the Neanderthal range. As an example, our correlation indicates that both Neumark Nord 2 and Caours were occupied well after the MIS 5e global high sea level stand. This implies that during these occupations, easy access to the British Isles was blocked by the fully developed English Channel, possibly explaining the absence of hominins in what is now Great Britain at that period.
-</details>  
-  
 ----
-  
-  
+
 # Previous Seminars
 
 ## 2021
